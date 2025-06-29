@@ -16,8 +16,8 @@ A fun and interactive JavaScript quiz application that lets users answer multipl
 
 ## 📸 Screenshot
 
-![Quiz App Screenshot](./screenshot1.PNG)
-![Quiz App Screenshot](./screenshot2.PNG)
+![Quiz App Screenshot](images/screenshot1.PNG)
+![Quiz App Screenshot](images/screenshot2.PNG)
 
 ---
 
