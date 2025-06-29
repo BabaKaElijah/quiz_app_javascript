@@ -10,7 +10,6 @@ A fun and interactive JavaScript quiz application that lets users answer multipl
 - ✅ Real-time feedback (correct/incorrect)
 - ✅ Score tracking
 - ✅ "Next" and "Play Again" functionality
-- ✅ 🎉 Popup animation when the user scores perfectly
 
 ---
 
@@ -49,7 +48,7 @@ quiz-app/
    ```
 2. Navigate to the project folder
   ```bash
-  cd quiz-app
+  cd quiz_app_javascript
   ```
 3. Open index.html in your browser
    You can simply double-click the file or use Live Server if using VS Code.
