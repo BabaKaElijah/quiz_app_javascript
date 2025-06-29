@@ -43,15 +43,15 @@ quiz-app/
 
 ## 📦 Getting Started
 
-1. **Clone the repo**
+1. Clone the repo**
    ```bash
    git clone https://github.com/yourusername/quiz_app_javascript.git
    ```
-2. **Navigate to the project folder
+2. Navigate to the project folder
   ```bash
   cd quiz-app
   ```
-3. **Open index.html in your browser
+3. Open index.html in your browser
    You can simply double-click the file or use Live Server if using VS Code.
 
  ## 🎉 Customization
@@ -64,3 +64,7 @@ Modify styles in style.css
 💥 Add confetti or sound effects:
 Extend the showScore() or selectAnswer() functions
 
+## 🤝 Contributing
+Pull requests are welcome. Feel free to open issues or suggest features!
+## ✨ Credits
+Created by Ellias Sithole — built as a practice project using basic web technologies.
