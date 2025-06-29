@@ -39,3 +39,16 @@ quiz-app/
 └── screenshot.png # Optional screenshot preview
 ```
 
+---
+
+## 📦 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/quiz-app.git
+   ```
+2. **Navigate to the project folder
+  ```bash
+  cd quiz-app
+  ```
+
