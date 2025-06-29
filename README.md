@@ -30,7 +30,7 @@ A fun and interactive JavaScript quiz application that lets users answer multipl
 ---
 
 ## 📂 Project Structure
-```
+```vscode
 quiz-app/
 │
 ├── index.html # Main HTML structure
