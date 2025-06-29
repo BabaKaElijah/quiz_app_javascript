@@ -25,9 +25,17 @@ A fun and interactive JavaScript quiz application that lets users answer multipl
 
 - HTML5
 - CSS3
-- Vanilla JavaScript (no frameworks)
+- JavaScript 
 
 ---
 
 ## 📂 Project Structure
+```
+quiz-app/
+│
+├── index.html # Main HTML structure
+├── style.css # Styling for quiz layout and popup
+├── script.js # JavaScript logic (questions, scoring, animations)
+└── screenshot.png # Optional screenshot preview
+```
 
