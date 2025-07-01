@@ -27,6 +27,40 @@ A fun and interactive JavaScript quiz application that lets users answer multipl
 - JavaScript 
 
 ---
+## 📝 Quiz Game HTML Structure
+
+This is the basic HTML layout for the quiz app. It includes a container for questions, answer buttons, and a Next button to proceed through the quiz.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Quiz App - Easy Tutorials</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to your CSS file -->
+  </head>
+  <body>
+    <div class="app">
+      <h1>Simple Quiz</h1>
+      <div class="quiz">
+        <!-- Question text will be inserted here dynamically -->
+        <h2 id="question">Questions goes here</h2>
+        
+        <!-- Container for answer buttons -->
+        <div id="answer-buttons">
+          <button class="btn">Answer 1</button>
+          <button class="btn">Answer 2</button>
+          <button class="btn">Answer 3</button>
+          <button class="btn">Answer 4</button>
+        </div>
+
+        <!-- Button to go to next question -->
+        <button id="next-btn">Next</button>
+      </div>
+    </div>
+    <script src="script.js"></script> <!-- Link to your JS file -->
+  </body>
+</html>
+```
 ## 🧠 Quiz Game App Logic (JavaScript)
 
 This is a multiple-choice quiz game built with vanilla JavaScript. It dynamically displays questions, tracks user scores, gives visual feedback on answers, and lets users replay the game.
